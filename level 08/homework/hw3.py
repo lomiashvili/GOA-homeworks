@@ -1,0 +1,1 @@
+print(str(input("enter your age")))
