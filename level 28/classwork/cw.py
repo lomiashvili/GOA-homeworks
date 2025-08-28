@@ -1,0 +1,1 @@
+my_tuple = ("hello", 123, 3.14, True, None)
